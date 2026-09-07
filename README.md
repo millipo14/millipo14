@@ -44,37 +44,7 @@ Frontend Developer focused on building modern and responsive web applications wi
 
 ---
 
-# 📊 GitHub Stats:
 
-[![Polina's GitHub stats](https://github-readme-stats.vercel.app/api?username=твой_ник_github&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник_github&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-# 🚀 Featured Projects:
-
-### 💎 Sillage Éclatant
-React SPA for a personalized perfume shopping experience.
-
-**React · TypeScript · Redux Toolkit · React Router · SCSS · Vite · REST API**
-
-### 🐾 PrettyPaw
-Responsive pet store website focused on clean layout and adaptive design.
-
-**HTML5 · SCSS · JavaScript · Webpack**
-
-### 🎲 Browser RPG
-Interactive browser RPG built with vanilla JavaScript and d20-based game mechanics.
-
-**HTML5 · CSS · JavaScript**
-
-### 🏠 SELHONO
-Responsive interior design studio landing page with interactive UI elements.
-
-**HTML5 · SCSS · JavaScript · jQuery · Owl Carousel**
-
----
 
 <p align="center">
   <i>Building interfaces, learning every day, and turning ideas into working products.</i> 🚀
